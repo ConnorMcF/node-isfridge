@@ -1,0 +1,27 @@
+{
+  "name": "isfridge",
+  "version": "1.0.5",
+  "description": "Check if anything is a fridge!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Connor McFarlane (connormcf.com)",
+  "license": "ISC",
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/ConnorMcF/node-isfridge.git"
+  },
+  "keywords": [
+  	"fridge",
+  	"isfridge",
+  	"fridge checker",
+  	"check",
+  	"fridge",
+  	"what fridge",
+  	"what is a fridge?"
+  ],
+  "bugs": {
+  	"url": "https://github.com/ConnorMcF/node-isfridge/issues"
+  }
+}
