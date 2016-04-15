@@ -4,7 +4,9 @@ Painstakingly written over years and years of work by Connor McFarlane.
 
 How to Use
 ----
-
+```
+npm install isfridge --save
+```
 ```js
 var isFridge = require('isfridge');
 var string = "fridge";
