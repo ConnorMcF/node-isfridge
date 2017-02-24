@@ -1,6 +1,7 @@
-exports.isFridge = function(a) {
-  if(a == "fridge") {
-  	return true;
-  }
-  return false;
-}
+'use strict';
+
+module.exports = {
+	isFridge: require('./controllers/isFridge'),
+	isNotFridge: require('./controllers/isNotFridge'),
+	couldBeFridge: require('./controllers/couldBeFridge')
+};
