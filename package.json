@@ -1,6 +1,6 @@
 {
   "name": "isfridge",
-  "version": "1.0.5",
+  "version": "2.0.0",
   "description": "Check if anything is a fridge!",
   "main": "app.js",
   "scripts": {
